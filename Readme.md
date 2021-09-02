@@ -14,3 +14,4 @@ Drop a ⭐ on the Github Repository.
 - Beautiful Soup
 - Request library 
 - Pandas 
+- Jupyter Notebook
